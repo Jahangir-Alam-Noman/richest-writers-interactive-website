@@ -15,8 +15,8 @@ const Cart = (props) => {
                     <span className="icon"><FontAwesomeIcon icon={faUser} /></span>
                 </div>
                 <div className="col-md-11">
-                    <h4>Writers Added : {cart.length}</h4>
-                    <h4>Total Worth: ${total.toFixed(2)}M</h4>
+                    <h4>Writers Added : <span className="text-dark"> {cart.length}</span> </h4>
+                    <h4>Total Worth: <span className="text-dark">${total.toFixed(2)}M</span> </h4>
                 </div>
             </div>
             <div className="row py-5">

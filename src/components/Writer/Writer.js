@@ -5,9 +5,9 @@ const Writer = (props) => {
     const { img, name, age, sell, email, country } = props.writer;
     return (
         <div className="col-md-4 col-lg-4 pb-4 custom_card ">
-            <div className="card h-100">
+            <div className="card h-100  rounded-3 ">
                 <img src={img} className="card-img-top img-fluid" alt="..." />
-                <div className="card-body  text-start " >
+                <div className="card-body text-start" >
                     <h3 className="card-title">{name}</h3>
                     <p className="card-text ">
                         <span className="fw-bold">Age</span> : {age}
