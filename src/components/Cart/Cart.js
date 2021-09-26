@@ -6,7 +6,6 @@ import CartInfo from '../CartInfo/CartInfo';
 
 const Cart = (props) => {
     const { cart } = props;
-    console.log(cart);
     const totalReducer = (previous, current) => previous + current.sell;
     const total = cart.reduce(totalReducer, 0);
     return (
@@ -16,8 +15,8 @@ const Cart = (props) => {
                     <span className="icon"><FontAwesomeIcon icon={faUser} /></span>
                 </div>
                 <div className="col-md-11">
-                    <h3>Writers Added : {cart.length}</h3>
-                    <h3>Total Sell : $ {total.toFixed(2)}B</h3>
+                    <h4>Writers Added : {cart.length}</h4>
+                    <h4>Total Worth: ${total.toFixed(2)}M</h4>
                 </div>
             </div>
             <div className="row py-5">

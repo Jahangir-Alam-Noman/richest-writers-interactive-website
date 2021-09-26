@@ -1,14 +1,8 @@
 .icon{
-    color: #96cdf7;
-    /* padding-right: 5px; */
-    /* fbfbfb */
-    font-size: 25px;
-}
-.icon:hover{
-    color: #94df8a;
-   
+    color: #91ee85;
+    font-size: 22px;
 }
 .addInfo{
-    background-color:#fbfbfb ;
+    background-color:cadetblue ;
     border-radius: 10px;
 }

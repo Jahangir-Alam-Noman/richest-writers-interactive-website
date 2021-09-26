@@ -31,7 +31,7 @@
     },
     {
         "id": 4,
-        "name": "Stephanie-Meyers",
+        "name": "Stephanie",
         "sell": 131.7,
         "email": "stephanie-meyers@example.com",
         "age": 65,
@@ -51,7 +51,7 @@
     },
     {
         "id": 6,
-        "name": "William-Shakespeare",
+        "name": "Shakespeare",
         "sell": 121.6,
         "email": "william-shakespeare.90@example.com",
         "age": 48,

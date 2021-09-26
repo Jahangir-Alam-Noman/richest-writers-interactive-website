@@ -4,7 +4,7 @@ import Writers from './components/Writers/Writers';
 function App() {
   return (
     <div>
-      <Header></Header>
+      <Header richestCount="12"></Header>
       <Writers></Writers>
 
     </div>

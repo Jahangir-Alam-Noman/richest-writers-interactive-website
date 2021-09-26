@@ -1,4 +1,11 @@
-.btn:hover{
+.card-body {
     background-color: #d7e0e7;
-    color: blue;
+}
+.card-body:hover{
+    background-color: powderblue;
+    cursor: pointer;
+}
+.btn {
+background-color: rgb(185, 139, 23);
+color: white;
 }
