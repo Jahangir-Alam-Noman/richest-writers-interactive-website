@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# The Richest Writers in the World 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://richest-writers-jahangir-alam-noman.netlify.app/).
 
 ## Available Scripts
 
