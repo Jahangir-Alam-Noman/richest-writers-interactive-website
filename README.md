@@ -10,7 +10,7 @@ In the project directory, you can find:
 
 ==> Get total worth of richest writers
 
-==> And also get country name, age , email and more information about of richest writers.
+==> And also get country name, age , email and more information about richest writers.
  
 
 
