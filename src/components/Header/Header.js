@@ -13,7 +13,6 @@ const Header = (props) => {
                 writers worldwide, along with their current net worth, and a short bio.
             </h5>
             <h3>Let see top<span className="fw-bold top_writers"> {richestCount} </span>  Richest Writers...</h3>
-
         </div>
     );
 };
