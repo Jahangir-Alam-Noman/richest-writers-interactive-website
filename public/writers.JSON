@@ -1,850 +1,122 @@
-{
-    "results": [
-        {
-            "gender": "male",
-            "name": {
-                "title": "Mr",
-                "first": "Romuald",
-                "last": "Storz"
-            },
-            "location": {
-                "street": {
-                    "number": 3331,
-                    "name": "Wiesenstraße"
-                },
-                "city": "Waltrop",
-                "state": "Berlin",
-                "country": "Germany",
-                "postcode": 37536,
-                "coordinates": {
-                    "latitude": "-41.4123",
-                    "longitude": "-175.4628"
-                },
-                "timezone": {
-                    "offset": "-9:00",
-                    "description": "Alaska"
-                }
-            },
-            "email": "romuald.storz@example.com",
-            "login": {
-                "uuid": "dd15fe24-ed31-4009-8727-29599bb850a0",
-                "username": "bluekoala249",
-                "password": "japanes",
-                "salt": "52ogdbKH",
-                "md5": "ad552f6b0a3bd5739bd34ec31e4349a7",
-                "sha1": "3476a635ab04610a416a879c97c61a171821a668",
-                "sha256": "899cbb270b53645365d046c925c5eec70c5cb60f660adf1ed23fbf249ddbfb10"
-            },
-            "dob": {
-                "date": "1977-07-22T00:01:05.880Z",
-                "age": 44
-            },
-            "registered": {
-                "date": "2007-09-12T04:20:31.482Z",
-                "age": 14
-            },
-            "phone": "0566-5306074",
-            "cell": "0178-3257410",
-            "id": {
-                "name": "",
-                "value": null
-            },
-            "picture": {
-                "large": "https://randomuser.me/api/portraits/men/62.jpg",
-                "medium": "https://randomuser.me/api/portraits/med/men/62.jpg",
-                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
-            },
-            "nat": "DE"
-        },
-        {
-            "gender": "female",
-            "name": {
-                "title": "Ms",
-                "first": "Malene",
-                "last": "Fagermo"
-            },
-            "location": {
-                "street": {
-                    "number": 5172,
-                    "name": "Asalveien"
-                },
-                "city": "Sandeid",
-                "state": "Buskerud",
-                "country": "Norway",
-                "postcode": "1311",
-                "coordinates": {
-                    "latitude": "45.6196",
-                    "longitude": "-35.3068"
-                },
-                "timezone": {
-                    "offset": "+3:30",
-                    "description": "Tehran"
-                }
-            },
-            "email": "malene.fagermo@example.com",
-            "login": {
-                "uuid": "d439c720-c892-4a98-8a2e-1c3fc6c1a846",
-                "username": "orangeelephant459",
-                "password": "nnnnnnnn",
-                "salt": "eVo0WAVf",
-                "md5": "bd1909ddc6239c43c5a89080105f61b3",
-                "sha1": "963e7cfadd31c03eafa3023247391fb65944a588",
-                "sha256": "14ac5b782265e529679283b31f7a7fa32cc0e4882a558f7be97463344f702de0"
-            },
-            "dob": {
-                "date": "1992-01-17T00:37:32.388Z",
-                "age": 29
-            },
-            "registered": {
-                "date": "2017-04-12T03:02:19.335Z",
-                "age": 4
-            },
-            "phone": "79310050",
-            "cell": "96888832",
-            "id": {
-                "name": "FN",
-                "value": "17019236617"
-            },
-            "picture": {
-                "large": "https://randomuser.me/api/portraits/women/13.jpg",
-                "medium": "https://randomuser.me/api/portraits/med/women/13.jpg",
-                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/13.jpg"
-            },
-            "nat": "NO"
-        },
-        {
-            "gender": "female",
-            "name": {
-                "title": "Ms",
-                "first": "یاسمین",
-                "last": "موسوی"
-            },
-            "location": {
-                "street": {
-                    "number": 2454,
-                    "name": "میدان امام حسین"
-                },
-                "city": "قرچک",
-                "state": "کرمانشاه",
-                "country": "Iran",
-                "postcode": 29832,
-                "coordinates": {
-                    "latitude": "67.6913",
-                    "longitude": "129.5370"
-                },
-                "timezone": {
-                    "offset": "+10:00",
-                    "description": "Eastern Australia, Guam, Vladivostok"
-                }
-            },
-            "email": "ysmyn.mwswy@example.com",
-            "login": {
-                "uuid": "2cf52009-0d9d-4cdd-93e6-42a8faff3aad",
-                "username": "goldenpeacock569",
-                "password": "monopoly",
-                "salt": "qXk7mASn",
-                "md5": "10d624a2cdb37c12bfcf3bb760198d3a",
-                "sha1": "e536c7f3e2e3cb928251e733294c964353885516",
-                "sha256": "6c60b9d2b888dc9bb0228091d47a2214693937e89821d5f4c577c8e7c3ed550c"
-            },
-            "dob": {
-                "date": "1956-03-08T15:54:17.102Z",
-                "age": 65
-            },
-            "registered": {
-                "date": "2010-10-11T04:20:08.679Z",
-                "age": 11
-            },
-            "phone": "001-59932127",
-            "cell": "0940-334-9852",
-            "id": {
-                "name": "",
-                "value": null
-            },
-            "picture": {
-                "large": "https://randomuser.me/api/portraits/women/94.jpg",
-                "medium": "https://randomuser.me/api/portraits/med/women/94.jpg",
-                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/94.jpg"
-            },
-            "nat": "IR"
-        },
-        {
-            "gender": "male",
-            "name": {
-                "title": "Mr",
-                "first": "علی رضا",
-                "last": "سالاری"
-            },
-            "location": {
-                "street": {
-                    "number": 6065,
-                    "name": "15 خرداد"
-                },
-                "city": "کاشان",
-                "state": "همدان",
-                "country": "Iran",
-                "postcode": 80748,
-                "coordinates": {
-                    "latitude": "-50.3344",
-                    "longitude": "-86.8786"
-                },
-                "timezone": {
-                    "offset": "+5:00",
-                    "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
-                }
-            },
-            "email": "aalyrd.slry@example.com",
-            "login": {
-                "uuid": "c2f36b39-5b83-47f1-b8ff-5424c71656ed",
-                "username": "organicduck370",
-                "password": "seng",
-                "salt": "20vNDL2A",
-                "md5": "1c3c78958225d33b06b41a5085e35463",
-                "sha1": "26086e07c2224c125c0cfbf6ddf66b857d7054e7",
-                "sha256": "5ead7a21274736a0019ad926d0a4b2efe31c45ca327ded0863e7318748561d69"
-            },
-            "dob": {
-                "date": "1973-03-21T07:50:14.671Z",
-                "age": 48
-            },
-            "registered": {
-                "date": "2003-02-17T23:35:05.682Z",
-                "age": 18
-            },
-            "phone": "000-01758993",
-            "cell": "0950-876-7733",
-            "id": {
-                "name": "",
-                "value": null
-            },
-            "picture": {
-                "large": "https://randomuser.me/api/portraits/men/85.jpg",
-                "medium": "https://randomuser.me/api/portraits/med/men/85.jpg",
-                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
-            },
-            "nat": "IR"
-        },
-        {
-            "gender": "male",
-            "name": {
-                "title": "Mr",
-                "first": "Lloyd",
-                "last": "Evans"
-            },
-            "location": {
-                "street": {
-                    "number": 408,
-                    "name": "Preston Rd"
-                },
-                "city": "Jackson",
-                "state": "Nebraska",
-                "country": "United States",
-                "postcode": 46145,
-                "coordinates": {
-                    "latitude": "14.5825",
-                    "longitude": "-104.2113"
-                },
-                "timezone": {
-                    "offset": "-2:00",
-                    "description": "Mid-Atlantic"
-                }
-            },
-            "email": "lloyd.evans@example.com",
-            "login": {
-                "uuid": "a2a4a90d-bcdf-45a7-9d6c-93480d0102b8",
-                "username": "brownbear768",
-                "password": "saturn",
-                "salt": "aTxbR4K0",
-                "md5": "8aed85df8f6ea082dc18c324175ac7ef",
-                "sha1": "76d1df71803b60ad5eab883229c455555e5f6ca9",
-                "sha256": "cb70caca1e8d922cd6904277614c934deed7847f974e679bce6706b64565151b"
-            },
-            "dob": {
-                "date": "1993-09-13T17:38:17.086Z",
-                "age": 28
-            },
-            "registered": {
-                "date": "2004-04-19T09:57:21.514Z",
-                "age": 17
-            },
-            "phone": "(122)-063-4194",
-            "cell": "(880)-683-0565",
-            "id": {
-                "name": "SSN",
-                "value": "304-33-0452"
-            },
-            "picture": {
-                "large": "https://randomuser.me/api/portraits/men/2.jpg",
-                "medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
-                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
-            },
-            "nat": "US"
-        },
-        {
-            "gender": "female",
-            "name": {
-                "title": "Ms",
-                "first": "Sumeya",
-                "last": "Portegies"
-            },
-            "location": {
-                "street": {
-                    "number": 3851,
-                    "name": "Komodovaraan"
-                },
-                "city": "Maria Hoop",
-                "state": "Noord-Holland",
-                "country": "Netherlands",
-                "postcode": 85309,
-                "coordinates": {
-                    "latitude": "70.2013",
-                    "longitude": "167.5850"
-                },
-                "timezone": {
-                    "offset": "+2:00",
-                    "description": "Kaliningrad, South Africa"
-                }
-            },
-            "email": "sumeya.portegies@example.com",
-            "login": {
-                "uuid": "e480dcab-b65f-43a3-a0a7-860b60be9fc3",
-                "username": "smallwolf604",
-                "password": "stroker",
-                "salt": "68utl6E3",
-                "md5": "b5aa9b9da35ab7df772e8f169998bc59",
-                "sha1": "e4de28432898217906aa3499cf651654c4bd7f95",
-                "sha256": "5dced28f18d63c3043eb07ba6f8968d0753eedbb9e5519e893bdccbcf0b8a986"
-            },
-            "dob": {
-                "date": "1962-04-26T06:38:10.818Z",
-                "age": 59
-            },
-            "registered": {
-                "date": "2019-09-07T08:39:05.601Z",
-                "age": 2
-            },
-            "phone": "(292)-518-1822",
-            "cell": "(486)-957-8196",
-            "id": {
-                "name": "BSN",
-                "value": "85913254"
-            },
-            "picture": {
-                "large": "https://randomuser.me/api/portraits/women/43.jpg",
-                "medium": "https://randomuser.me/api/portraits/med/women/43.jpg",
-                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/43.jpg"
-            },
-            "nat": "NL"
-        },
-        {
-            "gender": "male",
-            "name": {
-                "title": "Mr",
-                "first": "Bill",
-                "last": "Sullivan"
-            },
-            "location": {
-                "street": {
-                    "number": 7658,
-                    "name": "London Road"
-                },
-                "city": "Lichfield",
-                "state": "Dyfed",
-                "country": "United Kingdom",
-                "postcode": "WS0 4JR",
-                "coordinates": {
-                    "latitude": "-88.0405",
-                    "longitude": "87.2743"
-                },
-                "timezone": {
-                    "offset": "+2:00",
-                    "description": "Kaliningrad, South Africa"
-                }
-            },
-            "email": "bill.sullivan@example.com",
-            "login": {
-                "uuid": "e101430a-561f-47ec-8ad6-199850665068",
-                "username": "beautifulelephant182",
-                "password": "mariah",
-                "salt": "rT3zDd6r",
-                "md5": "dbb3118f1f32f235ad4b43531ea64c7f",
-                "sha1": "a14ecaf0394e8bfaacf58f665277a2c9e952e2f6",
-                "sha256": "618b89fd55db9cbe80a74a7eac46cdbc744950667aef9f8873d295a3f4d01721"
-            },
-            "dob": {
-                "date": "1952-12-21T09:27:48.614Z",
-                "age": 69
-            },
-            "registered": {
-                "date": "2006-11-19T05:21:23.339Z",
-                "age": 15
-            },
-            "phone": "016973 92351",
-            "cell": "0713-387-881",
-            "id": {
-                "name": "NINO",
-                "value": "TT 78 44 85 Z"
-            },
-            "picture": {
-                "large": "https://randomuser.me/api/portraits/men/82.jpg",
-                "medium": "https://randomuser.me/api/portraits/med/men/82.jpg",
-                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/82.jpg"
-            },
-            "nat": "GB"
-        },
-        {
-            "gender": "female",
-            "name": {
-                "title": "Ms",
-                "first": "Sedef",
-                "last": "Elmastaşoğlu"
-            },
-            "location": {
-                "street": {
-                    "number": 6272,
-                    "name": "Bağdat Cd"
-                },
-                "city": "Ağrı",
-                "state": "Bingöl",
-                "country": "Turkey",
-                "postcode": 44741,
-                "coordinates": {
-                    "latitude": "-36.0107",
-                    "longitude": "91.0122"
-                },
-                "timezone": {
-                    "offset": "-4:00",
-                    "description": "Atlantic Time (Canada), Caracas, La Paz"
-                }
-            },
-            "email": "sedef.elmastasoglu@example.com",
-            "login": {
-                "uuid": "be8f86f8-adef-4552-a7ed-cf85f74f392d",
-                "username": "lazygoose303",
-                "password": "freddie",
-                "salt": "su25aNnP",
-                "md5": "6c51f3abaea66bfd19556618773c3585",
-                "sha1": "4005b939f79628fb4cbab61c7e1dab0329a33535",
-                "sha256": "a44a62d54713b229536c130fda6ad896fb44574dca9d37930d212c40b8440f32"
-            },
-            "dob": {
-                "date": "1994-05-24T17:56:04.105Z",
-                "age": 27
-            },
-            "registered": {
-                "date": "2013-12-30T09:18:47.144Z",
-                "age": 8
-            },
-            "phone": "(142)-660-5809",
-            "cell": "(598)-971-6123",
-            "id": {
-                "name": "",
-                "value": null
-            },
-            "picture": {
-                "large": "https://randomuser.me/api/portraits/women/96.jpg",
-                "medium": "https://randomuser.me/api/portraits/med/women/96.jpg",
-                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/96.jpg"
-            },
-            "nat": "TR"
-        },
-        {
-            "gender": "female",
-            "name": {
-                "title": "Ms",
-                "first": "Séléna",
-                "last": "Robin"
-            },
-            "location": {
-                "street": {
-                    "number": 4806,
-                    "name": "Rue de la Baleine"
-                },
-                "city": "Toulon",
-                "state": "Aube",
-                "country": "France",
-                "postcode": 18659,
-                "coordinates": {
-                    "latitude": "-56.4755",
-                    "longitude": "129.6770"
-                },
-                "timezone": {
-                    "offset": "-2:00",
-                    "description": "Mid-Atlantic"
-                }
-            },
-            "email": "selena.robin@example.com",
-            "login": {
-                "uuid": "437cae8c-d3fa-4d9f-a548-7941e8c57504",
-                "username": "happypeacock929",
-                "password": "1515",
-                "salt": "OzmZAN70",
-                "md5": "76feb0db4e3b52877fca049bf7386fa1",
-                "sha1": "a3f65765c9ddce70907d58a457005aeea714628e",
-                "sha256": "4ce568e12169566fe9cd73f1ff80694dfa8507b9fc209fc5606d11c3c6721fee"
-            },
-            "dob": {
-                "date": "1983-01-16T08:53:34.624Z",
-                "age": 38
-            },
-            "registered": {
-                "date": "2008-01-28T14:33:30.013Z",
-                "age": 13
-            },
-            "phone": "02-97-43-32-81",
-            "cell": "06-72-62-69-21",
-            "id": {
-                "name": "INSEE",
-                "value": "2NNaN78520378 60"
-            },
-            "picture": {
-                "large": "https://randomuser.me/api/portraits/women/29.jpg",
-                "medium": "https://randomuser.me/api/portraits/med/women/29.jpg",
-                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/29.jpg"
-            },
-            "nat": "FR"
-        },
-        {
-            "gender": "female",
-            "name": {
-                "title": "Ms",
-                "first": "Camila",
-                "last": "Pires"
-            },
-            "location": {
-                "street": {
-                    "number": 8475,
-                    "name": "Rua São Pedro "
-                },
-                "city": "Apucarana",
-                "state": "Tocantins",
-                "country": "Brazil",
-                "postcode": 57273,
-                "coordinates": {
-                    "latitude": "41.0540",
-                    "longitude": "134.6079"
-                },
-                "timezone": {
-                    "offset": "+4:30",
-                    "description": "Kabul"
-                }
-            },
-            "email": "camila.pires@example.com",
-            "login": {
-                "uuid": "671e4903-124d-453f-b220-c3c5619602d8",
-                "username": "greendog841",
-                "password": "1492",
-                "salt": "QxsUrSoE",
-                "md5": "fec6143754ac5cb21c03db485e89ffcc",
-                "sha1": "3da7e65436857118651c08c2b21546dd08eace39",
-                "sha256": "248e8eabfb45dd6cae4b6a06229a78a040f0456a12b45e8dee3108bdaaacd5cc"
-            },
-            "dob": {
-                "date": "1964-06-27T10:46:40.921Z",
-                "age": 57
-            },
-            "registered": {
-                "date": "2019-08-24T18:47:56.822Z",
-                "age": 2
-            },
-            "phone": "(71) 7423-8426",
-            "cell": "(10) 6817-9589",
-            "id": {
-                "name": "",
-                "value": null
-            },
-            "picture": {
-                "large": "https://randomuser.me/api/portraits/women/32.jpg",
-                "medium": "https://randomuser.me/api/portraits/med/women/32.jpg",
-                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/32.jpg"
-            },
-            "nat": "BR"
-        },
-        {
-            "gender": "female",
-            "name": {
-                "title": "Miss",
-                "first": "Felecia",
-                "last": "Cox"
-            },
-            "location": {
-                "street": {
-                    "number": 8356,
-                    "name": "Paddock Way"
-                },
-                "city": "Bunbury",
-                "state": "Victoria",
-                "country": "Australia",
-                "postcode": 3149,
-                "coordinates": {
-                    "latitude": "88.9160",
-                    "longitude": "95.3474"
-                },
-                "timezone": {
-                    "offset": "-3:00",
-                    "description": "Brazil, Buenos Aires, Georgetown"
-                }
-            },
-            "email": "felecia.cox@example.com",
-            "login": {
-                "uuid": "b3842066-54fb-42e7-b44f-0c82a87f75e6",
-                "username": "whitefrog693",
-                "password": "doomsday",
-                "salt": "d9Hh85mM",
-                "md5": "39c45fbab6778235e2c8937c6aff4713",
-                "sha1": "81028080b18ca149592022db1fcc0ffbecd0e5e5",
-                "sha256": "8018492a003ae0082dcdbb867175b2eec485161ff19dcb94ddc6b8368f4424f1"
-            },
-            "dob": {
-                "date": "1992-03-18T07:23:32.282Z",
-                "age": 29
-            },
-            "registered": {
-                "date": "2007-08-19T10:26:35.123Z",
-                "age": 14
-            },
-            "phone": "06-4932-8324",
-            "cell": "0438-800-951",
-            "id": {
-                "name": "TFN",
-                "value": "447383293"
-            },
-            "picture": {
-                "large": "https://randomuser.me/api/portraits/women/79.jpg",
-                "medium": "https://randomuser.me/api/portraits/med/women/79.jpg",
-                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/79.jpg"
-            },
-            "nat": "AU"
-        },
-        {
-            "gender": "female",
-            "name": {
-                "title": "Miss",
-                "first": "Maia",
-                "last": "Roberts"
-            },
-            "location": {
-                "street": {
-                    "number": 8028,
-                    "name": "Highbrook Drive"
-                },
-                "city": "Whangarei",
-                "state": "Waikato",
-                "country": "New Zealand",
-                "postcode": 84262,
-                "coordinates": {
-                    "latitude": "-30.1543",
-                    "longitude": "146.6457"
-                },
-                "timezone": {
-                    "offset": "+6:00",
-                    "description": "Almaty, Dhaka, Colombo"
-                }
-            },
-            "email": "maia.roberts@example.com",
-            "login": {
-                "uuid": "b993715f-3682-455f-812a-b6bcaf1da5e6",
-                "username": "beautifulzebra582",
-                "password": "football1",
-                "salt": "NDKrf9hA",
-                "md5": "76902348a4a9f7bfec555268b86438cd",
-                "sha1": "fd6f62ddaf8418044492ed363bf1b88476664a52",
-                "sha256": "95680378d3e307d24ef6f165c7953b83c3b3ee110a3355963c4e4cf85273d3a6"
-            },
-            "dob": {
-                "date": "1953-06-02T11:14:54.717Z",
-                "age": 68
-            },
-            "registered": {
-                "date": "2010-08-25T07:27:46.025Z",
-                "age": 11
-            },
-            "phone": "(495)-330-5460",
-            "cell": "(342)-210-5323",
-            "id": {
-                "name": "",
-                "value": null
-            },
-            "picture": {
-                "large": "https://randomuser.me/api/portraits/women/84.jpg",
-                "medium": "https://randomuser.me/api/portraits/med/women/84.jpg",
-                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/84.jpg"
-            },
-            "nat": "NZ"
-        },
-        {
-            "gender": "male",
-            "name": {
-                "title": "Mr",
-                "first": "Anthony",
-                "last": "Mitchell"
-            },
-            "location": {
-                "street": {
-                    "number": 913,
-                    "name": "York St"
-                },
-                "city": "Sutton",
-                "state": "Alberta",
-                "country": "Canada",
-                "postcode": "Z9G 9Y4",
-                "coordinates": {
-                    "latitude": "56.5565",
-                    "longitude": "59.0854"
-                },
-                "timezone": {
-                    "offset": "0:00",
-                    "description": "Western Europe Time, London, Lisbon, Casablanca"
-                }
-            },
-            "email": "anthony.mitchell@example.com",
-            "login": {
-                "uuid": "f62f1113-9f71-4961-8d84-f3b8246eccd2",
-                "username": "greenzebra561",
-                "password": "renee",
-                "salt": "BF1Ryzra",
-                "md5": "8b34b902b76435d1692ea1076d276b00",
-                "sha1": "73f39bde86158f246097affc2f699e00b35a95db",
-                "sha256": "3473c729a179589e8e0bc175cc54ea74a1d7930de62fb3c803e5770d427b9cdc"
-            },
-            "dob": {
-                "date": "1958-06-29T06:34:06.235Z",
-                "age": 63
-            },
-            "registered": {
-                "date": "2003-04-21T02:18:16.555Z",
-                "age": 18
-            },
-            "phone": "069-690-3715",
-            "cell": "822-498-0741",
-            "id": {
-                "name": "",
-                "value": null
-            },
-            "picture": {
-                "large": "https://randomuser.me/api/portraits/men/80.jpg",
-                "medium": "https://randomuser.me/api/portraits/med/men/80.jpg",
-                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/80.jpg"
-            },
-            "nat": "CA"
-        },
-        {
-            "gender": "male",
-            "name": {
-                "title": "Mr",
-                "first": "Kelly",
-                "last": "Lane"
-            },
-            "location": {
-                "street": {
-                    "number": 8015,
-                    "name": "Fairview Road"
-                },
-                "city": "Armagh",
-                "state": "Tayside",
-                "country": "United Kingdom",
-                "postcode": "AW4N 9LU",
-                "coordinates": {
-                    "latitude": "-70.2518",
-                    "longitude": "-167.5549"
-                },
-                "timezone": {
-                    "offset": "+8:00",
-                    "description": "Beijing, Perth, Singapore, Hong Kong"
-                }
-            },
-            "email": "kelly.lane@example.com",
-            "login": {
-                "uuid": "65cdb175-a1f9-4cba-894c-dcb249117990",
-                "username": "happyswan636",
-                "password": "stayout",
-                "salt": "75uWn41Y",
-                "md5": "083a2540c4e32cac2ed4e29e8ade832c",
-                "sha1": "f6dc419bdf3025906b68f951b1e8bde6ff6e1d53",
-                "sha256": "73048aaf1f5351e4269d64087a2aaa84a2b96e8357003da168da9aa64e72e4c5"
-            },
-            "dob": {
-                "date": "1986-02-28T07:28:20.177Z",
-                "age": 35
-            },
-            "registered": {
-                "date": "2011-09-04T07:25:03.384Z",
-                "age": 10
-            },
-            "phone": "016977 7269",
-            "cell": "0747-429-187",
-            "id": {
-                "name": "NINO",
-                "value": "NP 51 89 85 B"
-            },
-            "picture": {
-                "large": "https://randomuser.me/api/portraits/men/12.jpg",
-                "medium": "https://randomuser.me/api/portraits/med/men/12.jpg",
-                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/12.jpg"
-            },
-            "nat": "GB"
-        },
-        {
-            "gender": "male",
-            "name": {
-                "title": "Mr",
-                "first": "Juan",
-                "last": "Romero"
-            },
-            "location": {
-                "street": {
-                    "number": 4230,
-                    "name": "Calle de Alberto Aguilera"
-                },
-                "city": "Móstoles",
-                "state": "Aragón",
-                "country": "Spain",
-                "postcode": 86403,
-                "coordinates": {
-                    "latitude": "66.6691",
-                    "longitude": "105.3473"
-                },
-                "timezone": {
-                    "offset": "-12:00",
-                    "description": "Eniwetok, Kwajalein"
-                }
-            },
-            "email": "juan.romero@example.com",
-            "login": {
-                "uuid": "da3cccd6-7d8f-4e9e-9e4a-d02645de0a3a",
-                "username": "smalllion326",
-                "password": "fullmoon",
-                "salt": "tjQg9Uub",
-                "md5": "2f62754a830bb859a26dfc4956c621fd",
-                "sha1": "ebf8f80822750a931d22f0ca965c2a2caa7072dc",
-                "sha256": "415bdf10915391a8953f00889764ac848bedcf7f6d7e649a660b3f92015c3311"
-            },
-            "dob": {
-                "date": "1986-06-02T03:36:11.471Z",
-                "age": 35
-            },
-            "registered": {
-                "date": "2003-12-31T06:29:38.594Z",
-                "age": 18
-            },
-            "phone": "996-957-828",
-            "cell": "637-974-867",
-            "id": {
-                "name": "DNI",
-                "value": "49462536-T"
-            },
-            "picture": {
-                "large": "https://randomuser.me/api/portraits/men/46.jpg",
-                "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
-                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
-            },
-            "nat": "ES"
-        }
-    ],
-    "info": {
-        "seed": "82c4153ca5644bd5",
-        "results": 15,
-        "page": 1,
-        "version": "1.3"
+[
+    {
+        "id": 1,
+        "name": "Jack-Higgins",
+        "sell": 199.6,
+        "email": "jack-higgins1965@example.com",
+        "age": 50,
+        "source": "Tesla, SpaceX",
+        "country": "United States",
+        "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2018/11/Richest-Authors-Jack-Higgins.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Janet-Evanovich",
+        "sell": 198.7,
+        "email": "janet-evanovich@example.com",
+        "age": 57,
+        "source": "Amazon",
+        "country": "United States",
+        "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2018/11/Richest-Authors-Janet-Evanovich.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Deepak-Chopra",
+        "sell": 181.3,
+        "email": "deepak-chopra89@example.com",
+        "age": 72,
+        "source": "LVMH",
+        "country": "France",
+        "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2018/11/Richest-Authors-Deepak-Chopra.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Stephanie-Meyers",
+        "sell": 131.7,
+        "email": "stephanie-meyers@example.com",
+        "age": 65,
+        "source": "Microsoft",
+        "country": "United States",
+        "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2018/11/Richest-Authors-Stephanie-Meyers.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Paul-Mckenna",
+        "sell": 126.2,
+        "email": "larry-mckennapage89@example.com",
+        "age": 37,
+        "source": "Facebook",
+        "country": "United States",
+        "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2018/11/Richest-Authors-Paul-Mckenna.jpg"
+    },
+    {
+        "id": 6,
+        "name": "William-Shakespeare",
+        "sell": 121.6,
+        "email": "william-shakespeare.90@example.com",
+        "age": 48,
+        "source": "Google",
+        "country": "United States",
+        "img": "https://worldblaze.in/wp-content/uploads/2015/02/William-Shakespeare.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Larry Ellison",
+        "sell": 118.1,
+        "email": "larry.elldamcroison9087@example.com",
+        "age": 77,
+        "source": "software",
+        "country": "United States",
+        "img": "https://149645218.v2.pressablecdn.com/wp-content/uploads/2020/09/Copy-of-SAFAF-2X1-images-2020-09-18T173938.309.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Dean-Koontz",
+        "sell": 117.2,
+        "email": "dean-koontzuiob.y8@example.com",
+        "age": 48,
+        "source": "Google",
+        "country": "United States",
+        "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2018/11/Richest-Authors-Dean-Koontz.jpg"
+    },
+    {
+        "id": 9,
+        "name": "David-Oyedepo",
+        "sell": 100.8,
+        "email": "david-oyedepo.a@example.com",
+        "age": 91,
+        "source": "Berkshire Hathaway",
+        "country": "United States",
+        "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2018/11/Richest-Authors-David-Oyedepo.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Dan-Brown",
+        "sell": 96.0,
+        "email": "dan-brown69@example.com",
+        "age": 64,
+        "source": "diversified",
+        "country": "India",
+        "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2018/11/Richest-Authors-Dan-Brown.jpg"
+    },
+    {
+        "id": 11,
+        "name": "John-Grisham",
+        "sell": 96.0,
+        "email": "john-grisham@example.com",
+        "age": 65,
+        "source": "Microsoft",
+        "country": "United States",
+        "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2018/11/Richest-Authors-John-Grisham.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Danielle",
+        "sell": 87.5,
+        "email": "danielle67@example.com",
+        "age": 68,
+        "source": "L'Oréal",
+        "country": "France",
+        "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2018/11/Richest-Authors-Danielle-Steel.jpg"
     }
-}
+]

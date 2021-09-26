@@ -1,0 +1,14 @@
+.icon{
+    color: #96cdf7;
+    /* padding-right: 5px; */
+    /* fbfbfb */
+    font-size: 25px;
+}
+.icon:hover{
+    color: #94df8a;
+   
+}
+.addInfo{
+    background-color:#fbfbfb ;
+    border-radius: 10px;
+}
