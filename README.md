@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://richest-writers-ja
 
 In the project directory, you can run:
 
+==> Get richest writers  ranking in the world
+==> Get total worth of richest writers
+==> And also get country name, age , email and more information about of richest writers.
+ 
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
